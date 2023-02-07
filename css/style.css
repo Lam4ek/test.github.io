@@ -50,7 +50,7 @@ body {
   margin-left: 50px;
 }
 
-.item:nth-child(2n) > div {
+.item:nth-child(3) > div {
   margin-left: 20px;
 }
 
